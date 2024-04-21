@@ -50,7 +50,11 @@ It can be used using any Grasshopper model uploaded to ShapeDiver that fulfills 
 
 Some examples: 
 
-  * [Hot Dog](Grasshopper/hotdog.ghx)
-  * [Barcelona Blocks Optimizer](Grasshopper/BarcelonaBlocksOptimizer.ghx)
+  * Hot Dog
+    * [Grasshopper model](Grasshopper/hotdog.ghx)
+    * Give it a try [here](https://appbuilder.shapediver.com/v1/main/0.3.0-optimizer/?slug=240421-hotdog)
+  * Barcelona Blocks Optimizer
+    * [Grasshopper model](Grasshopper/BarcelonaBlocksOptimizer.ghx)
+    * Give it a try [here](https://appbuilder.shapediver.com/v1/main/0.3.0-optimizer/?slug=barcelonablocksoptimizer)
 
 
