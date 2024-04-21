@@ -1,0 +1,4 @@
+[submodule "FrontendSourceCode"]
+	path = FrontendSourceCode
+	url = https://github.com/shapediver/AppBuilderSdk.git
+	branch = task/optimizer
