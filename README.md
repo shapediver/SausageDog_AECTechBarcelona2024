@@ -1,7 +1,9 @@
 # SausageDog Hack - AECTech Barcelona 2024
 This repository contains the results of the SausageDog hack at AECTech Barcelona 2024.
 
-Presentation: [xyz.pdf](xyz.pdf)
+![sausagedog4](https://github.com/shapediver/SausageDog_AECTechBarcelona2024/assets/8183687/aefec7fd-bb33-4aa5-bd37-702f43e62f19)
+
+Presentation: [AECtech_2024_Hotdog_Optimizer.pdf](AECtech_2024_Hotdog_Optimizer.pdf)
 
 ## Motivation
 
@@ -51,10 +53,15 @@ It can be used using any Grasshopper model uploaded to ShapeDiver that fulfills 
 Some examples: 
 
   * Hot Dog
-    * [Grasshopper model](Grasshopper/hotdog.ghx)
+    * [Grasshopper model](Grasshopper/HotDog.ghx)
     * Give it a try [here](https://appbuilder.shapediver.com/v1/main/0.3.0-optimizer/?slug=240421-hotdog)
-  * Barcelona Blocks Optimizer
+  * Barcelona Blocks Optimizer 
     * [Grasshopper model](Grasshopper/BarcelonaBlocksOptimizer.ghx)
     * Give it a try [here](https://appbuilder.shapediver.com/v1/main/0.3.0-optimizer/?slug=barcelonablocksoptimizer)
+    * ![bcn-gif](https://github.com/shapediver/SausageDog_AECTechBarcelona2024/assets/8183687/530ccdc5-2661-4bb4-b33c-cf2cd785805c)
+
+Read some more [here](Hotdog Optimizer Readme - Documenti Google.pdf).
+
+![hotdog-gif](https://github.com/shapediver/SausageDog_AECTechBarcelona2024/assets/8183687/3e6de337-4bca-4b6d-b5ff-a08f5e1f90bd)
 
 
