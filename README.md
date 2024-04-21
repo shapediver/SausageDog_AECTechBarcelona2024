@@ -60,7 +60,7 @@ Some examples:
     * Give it a try [here](https://appbuilder.shapediver.com/v1/main/0.3.0-optimizer/?slug=barcelonablocksoptimizer)
     * ![bcn-gif](https://github.com/shapediver/SausageDog_AECTechBarcelona2024/assets/8183687/530ccdc5-2661-4bb4-b33c-cf2cd785805c)
 
-Read some more [here](Hotdog Optimizer Readme - Documenti Google.pdf).
+Read more [here](Hotdog_Optimizer_Readme.pdf).
 
 ![hotdog-gif](https://github.com/shapediver/SausageDog_AECTechBarcelona2024/assets/8183687/3e6de337-4bca-4b6d-b5ff-a08f5e1f90bd)
 
